@@ -1,6 +1,6 @@
-# **Credit Scoring - A basic introduction**
+# Credit Scoring - A basic introduction
 
-## Using Deep Learning
+## Deep Learning approach
 
 ---
 
