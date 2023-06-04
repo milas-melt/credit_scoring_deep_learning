@@ -1,12 +1,10 @@
-# **Credit Scoring - A basic introduction**
+# Credit Scoring - A basic introduction
 
-## Using Deep Learning
+## Deep Learning approach
 
----
+### Presentation of the Notebook:
 
-**Presentation of the Notebook:**
-
-In this notebook, an interpretable Neural Network to handle the same classification problem is introduced.
+In this notebook, an interpretable Neural Network to handle famous credit scoring classification problem is introduced.
 
 The notebook is structured into three sections:
 
