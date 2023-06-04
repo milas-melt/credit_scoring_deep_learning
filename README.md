@@ -2,7 +2,7 @@
 
 ## Deep Learning approach
 
-### Presentation of the Notebook:**
+### Presentation of the Notebook:
 
 In this notebook, an interpretable Neural Network to handle the same classification problem is introduced.
 
